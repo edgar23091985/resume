@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.7d4b5f0d.css",
+    "main.js": "/resume/static/js/main.714b5b00.js",
+    "static/js/787.128fc6e9.chunk.js": "/resume/static/js/787.128fc6e9.chunk.js",
+    "static/media/my-Project1.png": "/resume/static/media/my-Project1.a8956d74e50bc99114ae.png",
+    "static/media/my-Project6.png": "/resume/static/media/my-Project6.5d0467c3f02956dd82b2.png",
+    "static/media/my-Project2.png": "/resume/static/media/my-Project2.e8dd734e81cd3def9132.png",
+    "static/media/my-Project5.png": "/resume/static/media/my-Project5.058f2de6154c3d67baf9.png",
+    "static/media/my-foto1.jpg": "/resume/static/media/my-foto1.3aaef5b628843921a8ef.jpg",
+    "static/media/my-Project3.png": "/resume/static/media/my-Project3.43d2e973d00ea0b5c7fb.png",
+    "static/media/my-Project4.png": "/resume/static/media/my-Project4.dc50a4dfd13faf3a9bfa.png",
+    "static/media/EdgarBeglaryan.pdf": "/resume/static/media/EdgarBeglaryan.e65072ddb5b7306652c0.pdf",
+    "static/media/my-foto2.jpg": "/resume/static/media/my-foto2.ade5c91e8369905e8541.jpg",
+    "index.html": "/resume/index.html",
+    "main.7d4b5f0d.css.map": "/resume/static/css/main.7d4b5f0d.css.map",
+    "main.714b5b00.js.map": "/resume/static/js/main.714b5b00.js.map",
+    "787.128fc6e9.chunk.js.map": "/resume/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4b5f0d.css",
+    "static/js/main.714b5b00.js"
+  ]
+}
